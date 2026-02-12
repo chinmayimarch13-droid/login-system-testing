@@ -7,3 +7,4 @@
 | TC03 | Empty username | "" / 1234 | Fields cannot be empty |
 | TC04 | Empty password | admin / "" | Fields cannot be empty |
 | TC05 | Both empty | "" / "" | Fields cannot be empty |
+| TC06 | Password too short | admin / 12 | Password too short |
